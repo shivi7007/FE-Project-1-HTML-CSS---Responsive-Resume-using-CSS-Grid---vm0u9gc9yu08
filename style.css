@@ -28,7 +28,7 @@
                 color: white;
             }
             .right-section {
-                /*width: 90%;*/
+                width: 90%;
                 grid-column: span 1/ span 2;
             }
             .left-content{
