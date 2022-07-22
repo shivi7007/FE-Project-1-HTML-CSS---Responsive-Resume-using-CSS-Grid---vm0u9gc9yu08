@@ -9,8 +9,8 @@
 /* Write CSS code below */
 
 .main-content {
-                /*min-height: 1000px;*/
-                 width: 90%; 
+                min-height: 1000px;
+/*                  width: 90%;  */
                 /* margin: 20px auto; */
                 display: flex;
                 grid-template-columns: 300px 700px;
@@ -29,7 +29,7 @@
             }
             .right-section {
                 /*width: 90%;*/
-                grid-column: span 1/ span 2
+                grid-column: span 1/ span 2;
             }
             .left-content{
                 padding: 1rem;
