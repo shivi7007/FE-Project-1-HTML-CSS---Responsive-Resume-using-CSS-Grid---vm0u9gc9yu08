@@ -21,7 +21,7 @@
                 justify-content: center;
             }
             .left-section {
-                width: 45%;
+/*                 width: 45%; */
                 grid-column: span 1;
                 background-color: black;
                 padding: 1rem;
